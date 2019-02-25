@@ -849,6 +849,7 @@ div.wpcf7-mail-sent-ok {
 	font-size: 76px;
 	color: #231f20;
 	line-height: 72px;
+	max-width: 325px;
 }
 
 footer.entry-footer {
@@ -2970,7 +2971,7 @@ body.page-template-page_widgetized {
 .header-text {
 	width: 100%;
 	color: #000;
-	font-size: 50px;
+	font-size: 40px;
 	display: block;
 	text-transform: unset;
 	font-family: 'HelveticaNeueLTStd-BdCn';
@@ -3813,7 +3814,7 @@ body.page-template-page_widgetized {
 		width: 283px;
 	}
 	.header-text {
-		font-size: 42px;
+		font-size: 32px;
 		line-height: 49px;
 		padding-right: 46%;
 	}
@@ -3950,7 +3951,7 @@ body.page-template-page_widgetized {
 		width: 330px;
 	}
 	.header-text {
-		font-size: 40px;
+		font-size: 30px;
 		line-height: 50px;
 		padding-right: 32%;
 	}
@@ -4565,7 +4566,7 @@ body.page-template-page_widgetized {
 		padding: 0px!important;
 	}
 	.header-text {
-		font-size: 40px;
+		font-size: 28px;
 		line-height: 50px;
 	}
 	.header-button {
@@ -4626,8 +4627,8 @@ body.page-template-page_widgetized {
 		font-size: 30px;
 	}
 	.header-subtext span {
-		font-size: 66px;
-		line-height: 64px;
+		font-size: 56px;
+		line-height: 56px;
 	}
 	.header-subtext br {
 		content: "";
@@ -4702,8 +4703,7 @@ body.page-template-page_widgetized {
 
 @media only screen and (max-width: 550px) {
 	.header-text {
-		padding-right: 37%;
-		font-size: 26px!important;
+		font-size: 28px!important;
 		line-height: 30px;
 	}
 }
@@ -4722,7 +4722,7 @@ body.page-template-page_widgetized {
 
 @media only screen and (max-width: 515px) {
 	.header-text {
-		padding-right: 29%;
+		padding-right: 0;
 	}
 }
 
@@ -4735,7 +4735,7 @@ body.page-template-page_widgetized {
 
 @media only screen and (max-width: 500px) {
 	.header-text {
-		padding-right: 27%;
+		padding-right: 0;
 	}
 	.project {
 		width: 100%;
@@ -4892,7 +4892,7 @@ body.page-template-page_widgetized {
 
 @media only screen and (max-width: 414px) {
 	.header-text {
-		padding-right: 17%;
+		padding-right: 0;
 	}
 	/*.wpb_single_image.wpb_content_element.vc_align_center.vc_custom_1515671781535 {
 		height: 80px!important;
@@ -4940,7 +4940,7 @@ body.page-template-page_widgetized {
 
 @media only screen and (max-width: 390px) {
 	.header-text {
-		padding-right: 13%;
+		padding-right: 0;
 	}
 }
 
@@ -5098,7 +5098,7 @@ body.page-template-page_widgetized {
 		transform: translateX(-300px);
 	}
 	.header-text {
-		font-size: 26px!important;
+		font-size: 23px!important;
 	}
 }
 
